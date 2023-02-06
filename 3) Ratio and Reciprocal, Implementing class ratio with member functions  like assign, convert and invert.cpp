@@ -3,8 +3,8 @@
 class ratio
 {
 public:
-    Void assign(int, int);
-    Double convert();
+    void assign(int, int);
+    double convert();
     void invert();
     void print();
 
