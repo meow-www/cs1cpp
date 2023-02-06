@@ -9,8 +9,7 @@ protected:
 public:
     void getinfo()
     {
-        cout << "Enter rollno and
-            name : "; cin>>roll>>name;
+        cout << "Enter rollno and name : "; cin>>roll>>name;
     }
     void showinfo()
     {
