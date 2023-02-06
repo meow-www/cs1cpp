@@ -30,7 +30,7 @@ void main()
     cout << "Sorted Array :" << endl;
     for (i = 0; i < 10; i++)
     {
-        cout << a[i] << "\t"
+	cout << a[i] << "\t";
     }
     cout << "Enter Number to search :";
     cin >> s;
